@@ -1,0 +1,13 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
+        "activityBar.background": "#113513",
+        "titleBar.activeBackground": "#184A1A",
+        "titleBar.activeForeground": "#F5FCF6"
+    },
+    "files.associations": {
+        "vector": "cpp",
+        "dense": "cpp"
+    }
+}

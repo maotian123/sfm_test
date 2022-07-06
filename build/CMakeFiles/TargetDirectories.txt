@@ -1,0 +1,3 @@
+/home/maotian/Sometest/sfm/build/CMakeFiles/sfm_node.dir
+/home/maotian/Sometest/sfm/build/CMakeFiles/edit_cache.dir
+/home/maotian/Sometest/sfm/build/CMakeFiles/rebuild_cache.dir

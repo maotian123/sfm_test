@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/maotian/Sometest/sfm/build",
+  "command": "/usr/bin/c++  -I/home/maotian/Sometest/sfm/include -I/usr/include/eigen3 -isystem /usr/local/include/opencv  -o CMakeFiles/sfm_node.dir/src/sfm_node.o -c /home/maotian/Sometest/sfm/src/sfm_node.cpp",
+  "file": "/home/maotian/Sometest/sfm/src/sfm_node.cpp"
+}
+]
