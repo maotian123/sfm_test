@@ -7,6 +7,7 @@ find_package(Eigen3 REQUIRED)
 
 set(ALL_TARGET_LIBRARIES "")
 include(cmake/opencv.cmake)
+include(cmake/ceres.cmake)
 
 
 include_directories(
